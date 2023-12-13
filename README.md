@@ -1,4 +1,4 @@
-# PEC3_Manovich_Reloaded
+# PEC3_Manovich_Reloaded - Ignacio Morán López
 # ¿Qué es la hibridación de medios?
 
 La hibridación de medios, tal y como la define Manovich, no es simplemente una reinterpretación de los medios existentes en otros más modernos o que utilizan otras técnicas. Se refiere a la creación de una nueva “especie” de medio que surge de la combinación de otros como el cine, la fotografía, la animación, etc.
@@ -43,7 +43,7 @@ Considero que la hibridación de medios es un proceso hoy en día transparente p
 
 ## Bibliografía
 
-- Vallejo, A. [Genbeta] (2023). Adobe Firefly, guía a fondo: qué es, cómo funciona y todo sobre la inteligencia artificial para generar imágenes de Adobe. Recuperado el 11 del 12 de 2023, de Adobe Firefly, guía a fondo: qué es, cómo funciona y todo sobre la inteligencia artificial para generar imágenes de Adobe (genbeta.com) 
+- Vallejo, A. [Genbeta] (2023). Adobe Firefly, guía a fondo: qué es, cómo funciona y todo sobre la inteligencia artificial para generar imágenes de Adobe. Recuperado el 11 del 12 de 2023, de [Adobe Firefly, guía a fondo: qué es, cómo funciona y todo sobre la inteligencia artificial para generar imágenes de Adobe.](https://www.genbeta.com/a-fondo/adobe-firefly-guia-a-fondo-que-como-funciona-todo-inteligencia-artificial-para-generar-imagenes-adobe "Ir al artículo en Genbeta")
 - En Wikipedia (2023). Microsoft Teams. Recuperado el 11 del 12 de 2023, de Microsoft Teams - Wikipedia 
 - Manovich, L. (2013). El software toma el mando. Recuperado el 5 del 10 de 2023, de Editorial UOC.
 - Manovich, L. (2013). Procesamiento de imágenes y epistemología del software. Recuperado el 11 del 12 de 2023.
