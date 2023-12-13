@@ -3,7 +3,8 @@
 
 La **hibridación** de medios, tal y como la define Manovich, no es simplemente una reinterpretación de los medios existentes en otros más modernos o que utilizan otras técnicas. Se refiere a la creación de una nueva _“especie”_ de medio que surge de la combinación de otros como el cine, la fotografía, la animación, etc.
 
->No debemos confundir el término multimedia con el de hibridación. Tal y como nos dice Manovich, “En efecto, es posible concebir la multimedia como un caso particular de medios híbridos. Sin embargo, prefiero verla realmente como un solapamiento de dos fenómenos distintos.”(Lev Manovich, El Software toma el mando).
+No debemos confundir el término multimedia con el de hibridación. Tal y como nos dice Manovich, 
+>“En efecto, es posible concebir la multimedia como un caso particular de medios híbridos. Sin embargo, prefiero verla realmente como un solapamiento de dos fenómenos distintos.”(Lev Manovich, El Software toma el mando).
 
 ![Lev Manovich, fotografía de Venezia News](lev.jpg "Lev Manovich, fotografía de Venezia News")
 
