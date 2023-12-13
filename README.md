@@ -5,7 +5,7 @@ La hibridación de medios, tal y como la define Manovich, no es simplemente una 
 
 >No debemos confundir el término multimedia con el de hibridación. Tal y como nos dice Manovich, “En efecto, es posible concebir la multimedia como un caso particular de medios híbridos. Sin embargo, prefiero verla realmente como un solapamiento de dos fenómenos distintos.”(Lev Manovich, El Software toma el mando).
 
-![Lev Manovich, fotografía de Venezia News](lev.png)
+![Lev Manovich, fotografía de Venezia News](/lev.png)
 
 En este ensayo analizaremos dos herramientas que representan una clara hibridación de medios desde el punto de vista que estamos planteando. Por un lado, Microsoft Teams, una herramienta para el entorno de trabajo desarrollada por Microsoft; y por otro lado, Adobe Firefly, un software desarrollado por Adobe, una herramienta de generación de arte gráfico con inteligencia artificial mediante entradas de texto en lenguaje natural.
 
