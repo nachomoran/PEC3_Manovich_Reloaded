@@ -11,7 +11,7 @@ La **hibridación** de medios, tal y como la define Manovich, no es simplemente 
 
 En este ensayo analizaremos dos herramientas que representan una clara hibridación de medios desde el punto de vista que estamos planteando. Por un lado, **Microsoft Teams**, una herramienta para el entorno de trabajo desarrollada por Microsoft; y por otro lado, **Adobe Firefly**, un software desarrollado por Adobe, una herramienta de generación de arte gráfico con inteligencia artificial mediante entradas de texto en lenguaje natural.
 
-## Microsoft Teams
+## 🧑‍💻 Microsoft Teams
 
 Teams nace de la necesidad de mejora, integración y complementación de las herramientas de Office 365 y Skype. Se convierte en su lanzamiento en 2016 en la herramienta principal de trabajo colaborativo y comunicación y uno de los objetivos principales actualmente de la compañía.
 
@@ -29,7 +29,7 @@ Un ejemplo muy claro es el control remoto de un equipo en una video llamada, un 
 
 Personalmente utilizo Teams a diario para trabajar, organizo mis reuniones con el calendario, hago formaciones por video llamada, me comunico con compañeros vía chat, llamada o vídeo llamada, comparto ficheros por chat e incluso controlo equipos de usuarios para la resolución de tareas e incidencias.
 
-## Adobe Firefly
+## 🧑‍🎨 Adobe Firefly
 
 Adobe Firefly es una herramienta software de reciente creación, se suma a la ola de productos desarrollados en estos últimos años utilizando la potencia de la inteligencia artificial. Con este producto, Adobe permite crear recursos gráficos en base a entradas de texto (promps) en lenguaje natural.
 
