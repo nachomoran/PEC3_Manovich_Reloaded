@@ -30,6 +30,9 @@ Un ejemplo muy claro es el control remoto de un equipo en una video llamada, un 
 
 Personalmente utilizo Teams a diario para trabajar, organizo mis reuniones con el calendario, hago formaciones por video llamada, me comunico con compañeros vía chat, llamada o vídeo llamada, comparto ficheros por chat e incluso controlo equipos de usuarios para la resolución de tareas e incidencias.
 
+> [!TIP]
+> Puedes llevar Microsoft Teams en todos tus dispositivos.
+
 ## 🧑‍🎨 Adobe Firefly
 
 Adobe Firefly es una herramienta software de reciente creación, se suma a la ola de productos desarrollados en estos últimos años utilizando la potencia de la inteligencia artificial. Con este producto, Adobe permite crear recursos gráficos en base a entradas de texto (promps) en lenguaje natural.
@@ -49,6 +52,9 @@ Por tanto, como dice Manovich, generamos nueva información (en este caso otro r
 >Adobe asegura que su IA ha sido entrenada con millones de datasets de licencia abierta y Adobe Stock, con ayuda de NVIDIA (Antonio Vallejo, Genbeta.com).
 
 Personalmente he utilizado esta herramienta de forma muy intensa durante la última práctica precisamente en esta asignatura. Me ayudó a la generación de imágenes que sólo existían en mi cabeza durante el desarrollo de la historia que pretendía transmitir. Mediante el lenguaje natural pude obtener como resultado imágenes que se asemejaban muy de cerca a lo que yo podría imaginar.
+
+> [!TIP]
+> Revisa las instrucciones de Adobe para la generación de textos, te ayudrán a obtener mejores imágenes [Ayuda de Adobe](https://www.adobe.com/es/products/firefly/discover/ai-art-prompts.html).
 
 ## En conclusión
 
